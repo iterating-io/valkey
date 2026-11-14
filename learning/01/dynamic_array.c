@@ -14,7 +14,7 @@ typedef struct {
 /* Implement this function as the next exercise. */
 static int dynamic_array_get(const DynamicArray *array, size_t index, int *value) {
     if (index >= array->length) {
-        return 0;
+        return 0; 
     }
     *value = array->data[index];
     return 1;

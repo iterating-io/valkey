@@ -1,6 +1,6 @@
 # 4주차 검증 기록
 
-검증일: 2026-08-26
+검증일: 2026-08-26  
 checkout: `4733aed65 Add XX option to ZRANGE commands for null/empty distinction (#2978)`
 
 ## 학습 예제
